@@ -10,3 +10,9 @@ reported_by: emileaben
 reported_date: 2025-06-16
 country_hint: FR
 note: geoloc-disputed probe, looks like it is in OVH in France. Paris maybe?
+---
+probe_id: 16234
+reported_by: emileaben
+reported_date: 2025-06-16
+country_hint: DE
+note: geoloc-disputed probe. Atlas geoloc says Porto Alegre, BR, but the probe is in Vodafone Germany (AS3209)
