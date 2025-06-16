@@ -5,11 +5,10 @@ reported_date: 2025-06-10
 country_hint: IN
 note: Showed up in the ixp-country-jedi for Denmark
 ---
-probe_id: 34960
+probe_id: 1001635
 reported_by: emileaben
 reported_date: 2025-06-16
-country_hint: FR
-note: geoloc-disputed probe, looks like it is in OVH in France. Paris maybe?
+note: geoloc-disputed probe. Atlas geoloc says Tehran, IR, but the probe is at 7.368 ms from wikimedia.interxionams9.nl-ix.net
 ---
 probe_id: 16234
 reported_by: emileaben
