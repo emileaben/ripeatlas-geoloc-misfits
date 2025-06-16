@@ -15,3 +15,9 @@ reported_by: emileaben
 reported_date: 2025-06-16
 country_hint: DE
 note: geoloc-disputed probe. Atlas geoloc says Porto Alegre, BR, but the probe is in Vodafone Germany (AS3209)
+---
+probe_id: 64918
+reported_by: emileaben
+reported_date: 2025-06-16
+country_hint: SK
+note: geoloc-disputed probe. Atlas geoloc says New Zealand, but the probe is in AS15962, which is Orange Slovakia
