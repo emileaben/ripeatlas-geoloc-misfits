@@ -21,3 +21,10 @@ reported_by: emileaben
 reported_date: 2025-06-16
 country_hint: SK
 note: geoloc-disputed probe. Atlas geoloc says New Zealand, but the probe is in AS15962, which is Orange Slovakia
+---
+probe_id: 65402
+reported_by: emileaben
+reported_date: 2025-06-22
+country_hint: BG
+city_hint: Sofia
+note: probe is on starlink and country-geoloc in atlas says it is in Iran. Starlink does not provide service in Iran. Starlink geofeed info says the IP space this probe is on is Sofia Bulgaria
